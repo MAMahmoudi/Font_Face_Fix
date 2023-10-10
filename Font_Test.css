@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Gym_Font";
+  src: url("g-10-font-collection/sport-center-98987/SportCenter-DO9Od.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gym_Font_2";
+  src: url("g-10-font-collection/jackport-college-ncv-21145/JackportCollegeNcv-1MZe.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gym_Font_3";
+  src: url("g-10-font-collection/jackport-college-ncv-21145/JackportGreekNcv-RGdo.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gym_Font_4";
+  src: url("g-10-font-collection/jackport-college-ncv-21145/JackportRegularNcv-BeY3.ttf")
+    format("truetype");
+}
+
+.Gym_Font_Text {
+  font-family: "Gym_Font";
+  font-size: 40px;
+}
+
+.Gym_Font_Text_2 {
+  font-family: "Gym_Font_2";
+  font-size: 40px;
+}
+
+.Gym_Font_Text_3 {
+  font-family: "Gym_Font_3";
+  font-size: 40px;
+}
+
+.Gym_Font_Text_4 {
+  font-family: "Gym_Font_4";
+  font-size: 40px;
+}
